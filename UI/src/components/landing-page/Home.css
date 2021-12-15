@@ -1,0 +1,29 @@
+.landing-text{
+  background: #5767f1; /* TODO: move the code to theme section later*/
+  height: 820px;
+  overflow: hidden;
+  width: 100%;
+  margin: 0 auto;
+  color: #FFF;
+}
+.landing-text .content h3{
+  margin: 0;
+  padding: 20px;
+  font-size: 5em;
+  font-weight: 300;
+}
+
+.landing-text .content{
+  /* transform: translate(-50%, -50%); */
+  margin-top: 10%;
+  /* margin-left: 30%; */
+}
+
+.landing-text .content .login-btn{
+  color: #FFF !important;
+}
+.login-form-container{
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 15%;
+}

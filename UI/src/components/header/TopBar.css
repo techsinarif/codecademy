@@ -1,0 +1,11 @@
+.menu-bar{
+  background: #5767f1 !important; /* TODO: move the code to theme section later*/
+  border: none !important;
+  outline: none;
+  border-radius: 0 !important;
+  color: #FFF !important
+}
+
+.login-btn{
+  color: #FFF !important;
+}

@@ -1,0 +1,19 @@
+.login-form .p-field{
+  margin: 25px 0;
+}
+
+.login-form .p-field .p-inputtext{
+  height: 56px
+}
+
+.login-form .p-text-center{
+  font-weight: 300;
+}
+
+.p-field-checkbox, .submit-btn, .forgot-pass{
+  margin-bottom: 25px !important;
+}
+
+.terms-accept{
+  padding-left: 10px;
+}
