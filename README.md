@@ -1,2 +1,2 @@
 # codecademy
-MERN Stack application to help developers to complete the online courses
+MERN Stack application to help developers to do the online courses
